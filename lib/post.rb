@@ -7,4 +7,6 @@ class Post
 
 
 end
-title = Post.new("Hell World")
+
+@title = Post.new("Hell World")
+
