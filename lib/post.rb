@@ -5,6 +5,6 @@ class Post
     @title = title
   end
 
-  
+
 end
 title = Post.new("Hell World")
