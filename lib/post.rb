@@ -9,4 +9,3 @@ class Post
 end
 
 @title = Post.new("Hell World")
-
